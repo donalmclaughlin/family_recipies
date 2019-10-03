@@ -2,6 +2,6 @@
 
 Set of recipes as given by my gramma.
 
- - Pizza (TODO)
+ - Piza (TODO)
  - Sauces (TODO)
  - spreads (TODO)
